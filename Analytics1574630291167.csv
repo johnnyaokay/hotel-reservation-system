@@ -1,0 +1,25 @@
+Hotel,5-star
+Room, Occupancy Figures, Cancellations, Income
+Deluxe Double,0,0,0
+Deluxe Twin,0,0,0
+Deluxe Single,0,0,0
+Deluxe Family,1.0,0.0,152.0
+Total Hotel Income,152
+
+Hotel,4-star
+Room, Occupancy Figures, Cancellations, Income
+Executie Double,0,0,0
+Executive Twin,0,0,0
+Executive Single,0,0,0
+Total Hotel Income,0
+
+Hotel,3-star
+Room, Occupancy Figures, Cancellations, Income
+Classic Double,0,0,0
+Classic Twin,0,0,0
+Classic Single,0,0,0
+Total Hotel Income,0
+
+Total Occupancy Figures,1.0
+Total Cancellations,0.0
+Total Company Income,152.0
